@@ -53,7 +53,14 @@ https://apps.apple.com/ca/app/id6470182505
 
 </br>
 
-## 3. 기능 요약
+## 3. 화면 구성
+|Travel|Record|Expense|
+|---|---|---|
+|![travel_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/e99cdb4e-6397-46c8-b6da-09770544112e)|![record_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/33d49e0f-62ec-4fba-b2eb-7d09fc9b19b6)|![expense_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/549ac06d-eed5-4acf-9869-a4df74559687)|
+
+</br>
+
+## 4. 기능 요약
 - `Travel`
   - 여행 일정 생성 / 삭제
   - 커스텀 캘린더로 일정 선택
@@ -73,13 +80,6 @@ https://apps.apple.com/ca/app/id6470182505
   - 저장된 소비 기록 조회 / 수정 / 삭제
   - 저장된 소비 기록 .CSV 파일로 내보내기
     - 결제 인원 별로 자동 정산 기능
-
-</br>
-
-## 4. 화면 구성
-|Travel|Record|Expense|
-|---|---|---|
-|![travel_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/e99cdb4e-6397-46c8-b6da-09770544112e)|![record_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/33d49e0f-62ec-4fba-b2eb-7d09fc9b19b6)|![expense_2x](https://github.com/unboxing96/NomadWallet/assets/102353544/549ac06d-eed5-4acf-9869-a4df74559687)|
 
 </br>
 
