@@ -43,7 +43,7 @@ https://apps.apple.com/ca/app/id6470182505
 - 언어: `Swift`
 - 프레임워크: `SwiftUI`
 - 아키텍처: `MVVM`
-- 동시성: `async / await`
+- 동시성: `GCD`, `async / await`
 - 데이터베이스: `Core Data`
 - 음성 인식: `Speech`
 - 카테고리 분류: `CreateML`
